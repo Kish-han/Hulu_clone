@@ -8,6 +8,6 @@ const nextConfig = {
 module.exports = {
   nextConfig,
   images: {
-    domains: ['download.logo.wine'],
+    domains: ['download.logo.wine' , 'image.tmdb.org'],
   }
 }
